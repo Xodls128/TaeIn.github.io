@@ -1,0 +1,11 @@
+.body-3{
+    background-color: black;
+    color: white;
+    background-repeat: no-repeat;
+
+    background-size: 115%;
+    z-index: 0;
+    background-image: url(./INtenkim/image/lib.png);
+    overflow: hidden;
+    position: relative;
+}

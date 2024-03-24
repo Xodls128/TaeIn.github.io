@@ -1,0 +1,193 @@
+.ToolsBar{
+    cursor: pointer;
+    border-color: black;
+    border-right-color: rgb(35, 35, 35);
+    border-width: 1px 1px 10px 10px;
+    border-style: solid;
+    color: white;
+  
+    position: fixed;
+    width: 226px;
+    height: 100%;
+    top: 0px;
+    
+    text-align: left;
+    /* display: flex;
+    justify-content: center; */
+    font-size: 15px;
+   z-index: 0;
+   ;
+   
+}
+
+.ToolsBar img{
+    
+    transition: all 0.12s linear;
+}
+
+/* .ToolsBar_taeInstagram img{
+    transition: all 0.3s linear;
+} */
+.ToolsBar_taeInstagram:hover img {
+    transform: scale(1.08);
+    cursor: pointer;
+}
+.ToolsBar_home:hover img{
+ transform: scale(1.08);
+ cursor: pointer;
+}
+.ToolsBar_serach:hover img{
+    transform: scale(1.08);
+    cursor: pointer;
+}
+.ToolsBar_expro:hover img{
+    transform: scale(1.08);
+    cursor: pointer;
+}
+.ToolsBar_reals:hover img{
+    transform: scale(1.08);
+    cursor: pointer;
+}
+.ToolsBar_direct:hover img{
+    transform: scale(1.08);
+    cursor: pointer;
+}
+.ToolsBar_heart:hover img{
+    transform: scale(1.08);
+    cursor: pointer;
+}
+.ToolsBar_new:hover img{
+    transform: scale(1.08);
+    cursor: pointer;
+}
+.ToolsBar_my:hover img{
+    transform: scale(1.08);
+    cursor: pointer;
+}
+.ToolsBar_thread:hover img{
+    transform: scale(1.08);
+    cursor: pointer;
+}
+.ToolsBar_more:hover img{
+    transform: scale(1.08);
+    cursor: pointer;
+}
+.selfy{
+    position: relative;
+
+    margin-left: 400px;
+    z-index: 5;
+    margin-top: 40px;
+    
+}
+
+.body{
+    
+    background-color: black;
+    color: white;
+    
+}
+
+
+.Top{ 
+    position: relative;
+    margin-left: 700px;
+    margin-top: -200px;
+
+}
+
+.Top_id{
+    font-size: 20px;
+    
+}
+.button1{
+    cursor: pointer; 
+   background-color: rgb(42, 150, 251); 
+   border-radius:5px; 
+   border: none;
+
+   color: white; 
+   font-size: 15px;
+   position: relative;
+   width: 90px;
+   height: 30px;
+   margin-left: 30px;
+   
+   z-index: 15;
+
+    
+}
+.button2{
+    cursor: pointer;
+    background-color: rgb(65, 65, 65); 
+    border-radius:5px; 
+    border: none;
+
+    color: white; 
+    font-size: 15px;
+    position: relative;
+    width: 200px;
+    height: 30px;
+    margin-left: 10px;
+    z-index: 15;
+    }
+
+/* .selfy{
+    width: auto;
+    height: 200px;
+    border-color: gray;
+    border: 100px;
+    
+} */
+
+.button1:hover{
+    background-color: rgb(23, 115, 235);
+    transition: 0.3s;
+}
+.button2:hover{
+    background-color: rgb(36, 36, 36);
+    transition: 0.3s;
+}
+.button1:visited{
+    background-color: blue;
+}
+.button1.actvie {
+    background-color: gray;
+}
+.button1:visited{
+    background-color: gray;
+}
+.Highlight{
+    
+    background-color: black;
+    color: white;
+    margin-left: 450px;
+    margin-top: 40px;
+    display: flex;
+}
+.Middle{
+    
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+.Posts{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+.linkbox{
+    z-index: 15;
+}
+.Post-1:hover img{
+    transform: scale(1.08);
+}
+.Post-2:hover img{
+    transform: scale(1.08);
+}
+.Post-3:hover img{
+    transform: scale(1.08);
+}
+
+

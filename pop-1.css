@@ -1,0 +1,39 @@
+.body{
+    background-color: black;
+    color: white;
+    background-repeat: no-repeat;
+    background-size: cover ;
+    z-index: 0;
+    background-image: url(./INtenkim/image/Bass_back.webp);
+    overflow: hidden;
+    filter: brightness(50%);
+}
+
+
+/* .BassGuitar{
+    z-index: 10;
+    position: relative;
+    right: -100px;
+    bottom: 0px;
+    filter: brightness(100%);
+
+
+} */
+/* .Pop_Header{
+    z-index: 10;
+    color: blue;
+   position: relative; 
+    top: 40px;
+    
+    background-color: blanchedalmond;
+        border-style: solid;
+        border-color: gray;
+        border-width: 10px;
+        border-radius: 20px;
+        filter: brightness(100%);
+} */
+/* .word{
+    color: aliceblue;
+    font: optional;
+    z-index: 100;
+} */
